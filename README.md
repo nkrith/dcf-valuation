@@ -7,7 +7,7 @@ Runs on **any US-listed ticker** — pulls live data from Yahoo Finance, auto-ge
 ## Quick Start
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/dcf-valuation.git
+git clone https://github.com/nkrith/dcf-valuation.git
 cd dcf-valuation
 pip install -r requirements.txt
 python -m dcf AAPL
